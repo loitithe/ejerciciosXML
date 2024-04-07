@@ -1,4 +1,4 @@
-######################################################################################################################################################################
+###############################################################################################
 Ejercicio 601
 Se pide desarrollar una aplicación Java que permita:
 
@@ -19,7 +19,7 @@ Media de edad de los alumnos.
 Mostrar un XML con la edad del alumno mayor y del alumno menor (todo en el mismo documento XML).
 Mostrar el nombre de los alumnos ordenado por edad de mayor a menor.
 Mostrar el nombre de un alumno de forma aleatoria.
-######################################################################################################################################################################
+##########################################################################################
 Ejercicio 602
 1.Almacenar un único fichero muy grande que contiene todos los elementos principales.
 
@@ -46,7 +46,7 @@ Número medio de palabras de todos los libros
 Número medio de palabras de los libros publicados después de 2008 y escritos por un determinado autor.
 Al final, se deberá completar la siguiente tabla con el tiempo que tarda cada una de las consultas, de forma que nos permita inferir cual de las dos opciones es mejor.
 
-######################################################################################################################################################################
+################################################################################################
 Ejercicio 603
 Se pide desarrollar una aplicación Java que permita gestionar bases de datos. Para ello el sistema debe permitir:
 
