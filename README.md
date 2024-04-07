@@ -1,5 +1,5 @@
-###############################################################################################
-Ejercicio 601
+
+#Ejercicio 601#
 Se pide desarrollar una aplicación Java que permita:
 
 Conectarse a una base de datos XML gestionada por BaseX denominada ejercicio601
@@ -19,8 +19,8 @@ Media de edad de los alumnos.
 Mostrar un XML con la edad del alumno mayor y del alumno menor (todo en el mismo documento XML).
 Mostrar el nombre de los alumnos ordenado por edad de mayor a menor.
 Mostrar el nombre de un alumno de forma aleatoria.
-##########################################################################################
-Ejercicio 602
+
+#Ejercicio 602#
 1.Almacenar un único fichero muy grande que contiene todos los elementos principales.
 
 2.Almacenar muchos ficheros que contenga un único elemento a almacenar.
@@ -46,8 +46,7 @@ Número medio de palabras de todos los libros
 Número medio de palabras de los libros publicados después de 2008 y escritos por un determinado autor.
 Al final, se deberá completar la siguiente tabla con el tiempo que tarda cada una de las consultas, de forma que nos permita inferir cual de las dos opciones es mejor.
 
-################################################################################################
-Ejercicio 603
+#Ejercicio 603#
 Se pide desarrollar una aplicación Java que permita gestionar bases de datos. Para ello el sistema debe permitir:
 
 Gestión de bases de datos:
@@ -66,8 +65,7 @@ Para cada base de datos se debe poder:
 Consultar el número de documentos.
 Listar la información por cada campo que tenga la estructura XML.
 
-######################################################################################################################################################################
-Ejercicio 604
+#Ejercicio 604#
 Consideremos un documento XML con las siguientes características:
 
 El elemento raíz es biblioteca. Contiene un elemento libros.
